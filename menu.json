@@ -6,15 +6,15 @@
     "submenuItems": [
       {
         "label": "About",
-        "url": "#"
+        "url": "https://omnihub.win/about.html"
       },
       {
         "label": "Help",
-        "url": "#"
+        "url": "https://omnihub.win/help.html"
       },
       {
         "label": "Policy",
-        "url": "#"
+        "url": "https://omnihub.win/policy.html"
       }
     ]
   },
