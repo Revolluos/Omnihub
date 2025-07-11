@@ -1,0 +1,64 @@
+[
+  {
+    "label": "Intro",
+    "url": "https://omnihub.win/",
+    "hasSubmenu": false
+  },
+  {
+    "label": "AI",
+    "url": "#",
+    "hasSubmenu": true,
+    "submenuItems": [
+      {
+        "label": "Chat",
+        "url": "https://www.chat.omnihub.win/"
+      },
+      {
+        "label": "Image Prompts",
+        "url": "https://image.omnihub.win/prompts/"
+      },
+      {
+        "label": "Image Generator",
+        "url": "https://image.omnihub.win/generator/"
+      },
+      {
+        "label": "AI Directory",
+        "url": "https://ai.playroom.win/"
+      }
+    ]
+  },
+  {
+    "label": "Science",
+    "url": "#",
+    "hasSubmenu": true,
+    "submenuItems": [
+      {
+        "label": "Solar System",
+        "url": "https://solarsystem.omnihub.win/"
+      },
+      {
+        "label": "Periodic Table",
+        "url": "https://periodictable.omnihub.win/"
+      }
+    ]
+  },
+  {
+    "label": "Entertainment",
+    "url": "#",
+    "hasSubmenu": true,
+    "submenuItems": [
+      {
+        "label": "Streaming TV",
+        "url": "https://tv.omnihub.win/Adelaide"
+      },
+      {
+        "label": "Games",
+        "url": "https://games.omnihub.win/"
+      },
+      {
+        "label": "Stories",
+        "url": "https://jette.storyworld.win"
+      }
+    ]
+  }
+]
