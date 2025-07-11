@@ -1,10 +1,5 @@
 [
   {
-    "label": "Intro",
-    "url": "https://omnihub.win/",
-    "hasSubmenu": false
-  },
-  {
     "label": "AI",
     "url": "#",
     "hasSubmenu": true,
