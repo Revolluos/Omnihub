@@ -1,5 +1,24 @@
 [
-  {
+ {
+    "label": "Info",
+    "url": "#",
+    "hasSubmenu": true,
+    "submenuItems": [
+      {
+        "label": "About",
+        "url": "#"
+      },
+      {
+        "label": "Help",
+        "url": "#"
+      },
+      {
+        "label": "Policy",
+        "url": "#"
+      }
+    ]
+  },
+ {
     "label": "AI",
     "url": "#",
     "hasSubmenu": true,
@@ -21,7 +40,7 @@
         "url": "https://ai.playroom.win/"
       }
     ]
-  },
+  },  
   {
     "label": "Science",
     "url": "#",
