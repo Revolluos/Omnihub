@@ -6,15 +6,15 @@
     "submenuItems": [
       {
         "label": "About",
-        "url": "https://omnihub.win/about.html"
+        "url": "https://kinsta.com/blog/about-us-page/"
       },
       {
         "label": "Help",
-        "url": "https://omnihub.win/help.html"
+        "url": "https://www.w3schools.com/html/html_examples.asp"
       },
       {
         "label": "Policy",
-        "url": "https://omnihub.win/policy.html"
+        "url": "https://termly.io/resources/templates/privacy-policy-template/"
       }
     ]
   },
