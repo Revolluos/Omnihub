@@ -1,24 +1,10 @@
 [
- {
-    "label": "Info",
-    "url": "#",
-    "hasSubmenu": true,
-    "submenuItems": [
-      {
-        "label": "About",
-        "url": "https://kinsta.com/blog/about-us-page/"
-      },
-      {
-        "label": "Help",
-        "url": "https://www.w3schools.com/html/html_examples.asp"
-      },
-      {
-        "label": "Policy",
-        "url": "https://termly.io/resources/templates/privacy-policy-template/"
-      }
-    ]
+  {
+    "label": "Intro",
+    "url": "https://omnihub.win/",
+    "hasSubmenu": false
   },
- {
+  {
     "label": "AI",
     "url": "#",
     "hasSubmenu": true,
@@ -33,14 +19,14 @@
       },
       {
         "label": "Image Generator",
-        "url": "https://imagegenerator.omnihub.win/"
+        "url": "https://image.omnihub.win/generator/"
       },
       {
         "label": "AI Directory",
         "url": "https://ai.playroom.win/"
       }
     ]
-  },  
+  },
   {
     "label": "Science",
     "url": "#",
@@ -69,9 +55,6 @@
         "label": "Games",
         "url": "https://games.omnihub.win/"
       },
-        "label": "Memory",
-        "url": "https://memory.omnihub.win/"
-      },     
       {
         "label": "Stories",
         "url": "https://jette.storyworld.win"
