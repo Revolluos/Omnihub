@@ -39,6 +39,17 @@
     ]
   },
   {
+    "label": "Tools",
+    "url": "#",
+    "hasSubmenu": true,
+    "submenuItems": [
+      {
+        "label": "Flip Book,
+        "url": "https://flipbook.omnihub.win/"
+      }
+    ]
+  },  
+  {
     "label": "Entertainment",
     "url": "#",
     "hasSubmenu": true,
