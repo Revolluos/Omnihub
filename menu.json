@@ -44,8 +44,8 @@
     "hasSubmenu": true,
     "submenuItems": [
       {
-        "label": "Flip Book",
-        "url": "https://flipbook.omnihub.win/"
+        "label": "PDF Reader",
+        "url": "https://pdf-reader.omnihub.win/"
       }
     ]
   },  
