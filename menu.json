@@ -59,6 +59,10 @@
         "url": "https://tv.omnihub.win/Adelaide"
       },
       {
+        "label": "Global Radio",
+        "url": "https://globalradio.omnihub.win"
+      },      
+      {
         "label": "Games",
         "url": "https://games.omnihub.win/"
       },
