@@ -61,6 +61,10 @@
       {
         "label": "Global Radio",
         "url": "https://globalradio.omnihub.win/"
+      }, 
+      {
+        "label": "Radio Australia",
+        "url": "https://radioaustralia.omnihub.win/"
       },      
       {
         "label": "Games",
@@ -77,3 +81,4 @@
     ]
   }
 ]
+
