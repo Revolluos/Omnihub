@@ -18,6 +18,10 @@
         "url": "https://images.omnihub.win/"
       },
       {
+        "label": "Narrative Engine",
+        "url": "https://narrative-engine.omnihub.win/"
+      },      
+      {
         "label": "AI Directory",
         "url": "https://ai.playroom.win/"
       }
@@ -81,6 +85,7 @@
     ]
   }
 ]
+
 
 
 
