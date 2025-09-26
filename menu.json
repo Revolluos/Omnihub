@@ -52,7 +52,26 @@
         "url": "https://pdfviewer2.omnihub.win/"
       }
     ]
-  },  
+  },
+   {
+    "label": "Generators",
+    "url": "#",
+    "hasSubmenu": true,
+    "submenuItems": [
+      {
+        "label": "Adult Stories",
+        "url": "https://adultstorygenerator.omnihub.win/"
+      },
+      {
+        "label": "Children Stories",
+        "url": "https://childrennarration.omnihub.win/"
+      },
+      {
+        "label": "Blogs",
+        "url": "https://blogs.omnihub.win/"
+      }
+    ]
+  }, 
   {
     "label": "Entertainment",
     "url": "#",
@@ -85,6 +104,7 @@
     ]
   }
 ]
+
 
 
 
