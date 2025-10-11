@@ -39,6 +39,10 @@
       {
         "label": "Periodic Table",
         "url": "https://periodictable.omnihub.win/"
+      },
+      {
+        "label": "Mathematical Functions",
+        "url": "https://mathematicalfunctions.omnihub.win/"
       }
     ]
   },
@@ -104,9 +108,3 @@
     ]
   }
 ]
-
-
-
-
-
-
