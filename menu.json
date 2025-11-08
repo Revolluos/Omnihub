@@ -73,7 +73,11 @@
       {
         "label": "Blogs",
         "url": "https://blogs.omnihub.win/"
-      }
+      },
+      {
+        "label": "Recipes",
+        "url": "https://recipes.omnihub.win/"
+      }      
     ]
   }, 
   {
@@ -108,3 +112,4 @@
     ]
   }
 ]
+
