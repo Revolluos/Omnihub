@@ -90,6 +90,10 @@
         "url": "https://tv.omnihub.win/Adelaide"
       },
       {
+        "label": "Streaming Video",
+        "url": "https://video.omnihub.win/"
+      },      
+      {
         "label": "Global Radio",
         "url": "https://globalradio.omnihub.win/"
       }, 
@@ -112,5 +116,6 @@
     ]
   }
 ]
+
 
 
