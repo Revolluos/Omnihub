@@ -112,10 +112,15 @@
       {
         "label": "Stories",
         "url": "https://jette.storyworld.win"
-      }
+      },
+      {
+        "label": "Books",
+        "url": "https://book.omnihub.win/"
+      }      
     ]
   }
 ]
+
 
 
 
